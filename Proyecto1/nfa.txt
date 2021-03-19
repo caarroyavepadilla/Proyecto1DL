@@ -1,0 +1,74 @@
+estado: 0
+Aceptacion: False
+Transicion: 0 Con: E
+Transicion: 1 Con: E
+Transicion: 11 Con: E
+estado: 1
+Aceptacion: False
+Transicion: 1 Con: E
+Transicion: 2 Con: E
+Transicion: 6 Con: E
+estado: 2
+Aceptacion: False
+Transicion: 2 Con: E
+Transicion: 3 Con: E
+estado: 3
+Aceptacion: False
+Transicion: 3 Con: E
+Transicion: 4 Con: E
+estado: 4
+Aceptacion: False
+Transicion: 4 Con: E
+Transicion: 5 Con: a
+estado: 5
+Aceptacion: False
+Transicion: 5 Con: E
+Transicion: 8 Con: E
+estado: 6
+Aceptacion: False
+Transicion: 6 Con: E
+Transicion: 7 Con: E
+estado: 7
+Aceptacion: False
+Transicion: 7 Con: E
+Transicion: 8 Con: E
+estado: 8
+Aceptacion: False
+Transicion: 8 Con: E
+Transicion: 9 Con: E
+estado: 9
+Aceptacion: False
+Transicion: 9 Con: E
+Transicion: 10 Con: b
+estado: 10
+Aceptacion: False
+Transicion: 10 Con: E
+Transicion: 1 Con: E
+Transicion: 11 Con: E
+estado: 11
+Aceptacion: False
+Transicion: 11 Con: E
+Transicion: 12 Con: E
+estado: 12
+Aceptacion: False
+Transicion: 12 Con: E
+Transicion: 13 Con: a
+estado: 13
+Aceptacion: False
+Transicion: 13 Con: E
+Transicion: 14 Con: E
+estado: 14
+Aceptacion: False
+Transicion: 14 Con: E
+Transicion: 15 Con: b
+estado: 15
+Aceptacion: False
+Transicion: 15 Con: E
+Transicion: 16 Con: E
+estado: 16
+Aceptacion: False
+Transicion: 16 Con: E
+Transicion: 17 Con: b
+estado: 17
+Aceptacion: True
+Transicion: 17 Con: E
